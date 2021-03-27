@@ -1,7 +1,6 @@
 ## Spring 2021 Blockchain Technologies Lab 2                          
 ### Carnegie Mellon University                  
 ### Due: 11:59 PM Sunday, April 4, 2021                                
-### 20 Points
 ### Office Zoom URL: See Canvas and look under "Pages".
 
 **Learning Objectives:** The objectives of this lab are to familiarize the student
